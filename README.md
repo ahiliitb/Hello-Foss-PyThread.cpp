@@ -1,4 +1,4 @@
-# Parallel_Programming
+# Parallel_Programming113
 Parallel programming is often used interchangeably with parallel processing or in connection with parallel computing, which refers to systems that enhance the efficiency of parallel execution. In parallel programming, tasks are divided and executed simultaneously across multiple computers or multiple CPU cores. This approach is essential for large-scale projects where speed and precision are crucial. Although complex, parallel programming enables developers, researchers, and users to perform research and analysis much faster than programs limited to processing tasks sequentially
 
 ## Project Description
